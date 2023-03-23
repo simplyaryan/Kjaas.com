@@ -1,2 +1,2 @@
 # Kjaas.com
-My first e-commerce project
+My first e-commerce website project (underdevelopment!!!!)
