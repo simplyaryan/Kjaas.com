@@ -1,0 +1,6 @@
+com\example\FinalKjaasApi\FinalKjaasApiApplication.class
+com\example\FinalKjaasApi\EmailSender.class
+com\example\FinalKjaasApi\api.class
+com\example\FinalKjaasApi\CorsFilter.class
+com\example\FinalKjaasApi\database.class
+com\example\FinalKjaasApi\person.class
