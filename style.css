@@ -1,0 +1,60 @@
+.navbar-brand{
+    font-family: 'Golos Text', sans-serif;
+    text-decoration: none ; 
+    
+}
+.items{
+    font-size:22px !important;
+    font-family: 'Golos Text', sans-serif;
+    color: white;
+}
+
+.contactus{
+    font-family: 'Golos Text', sans-serif;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 250%;
+}
+iframe{
+    width: 100%;
+    height: 90%;
+    padding-top: 3%;
+}
+.footer{
+    width:100%;
+}
+.contactusinfo{
+    padding:20px !important;
+    font-family: 'Golos Text', sans-serif;
+    color: rgb(255, 255, 255);
+}
+.lol{
+    font-size: 40px;
+    color: white;
+}
+.pricingtag{
+    font-family: 'Golos Text', sans-serif;
+    font-size: 5vh;
+    color: white;
+}
+.dropdown-item{
+    font-size:20px;
+    font-family: 'Golos Text', sans-serif;
+}
+.test{
+    background-size: cover;
+    min-height:100px;
+    height:30rem;
+    width:35.5rem;
+}
+
+.lol-extends{
+    padding-left:4%;
+}
+@media (max-width:1200px) {
+    .h1remove{
+        display:none;
+    }
+    
+}
+
