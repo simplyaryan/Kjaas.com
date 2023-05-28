@@ -20,7 +20,7 @@ public class api {
             person newperson = userRequest;
             newperson.databasecommit();
             service.sendEmail(newperson.getEmail(),"New appointment ", newperson.getDescription());
-            database.delete();
+           // database.delete();
             return newperson;   
     }
     
